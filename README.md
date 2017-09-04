@@ -1,0 +1,2 @@
+# SaltedBlog
+A salted blog.
